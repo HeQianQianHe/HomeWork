@@ -1,7 +1,0 @@
-git status （看看本地和远端有哪些不一样）
-git commit -m "re submit" （把本地内容放在缓冲区）
-git push -u origin master  （把缓冲区内容上传到远端）
-
-更换绑定的远端仓库：
-git remote rm origin  （删除绑定）
-git remote add origin 存储库地址  （绑定新的）
